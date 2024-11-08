@@ -1,13 +1,5 @@
 # SQL-Proyect-Chicago-Data-Base
 
-# Introduction
-
-Using this Python notebook you will:
-
-1.  Understand three Chicago datasets
-2.  Load the three datasets into three tables in a SQLIte database
-3.  Execute SQL queries to answer assignment questions
-
 ## Understand the datasets
 
 To complete the assignment problems in this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
